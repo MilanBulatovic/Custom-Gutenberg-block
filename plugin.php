@@ -1,7 +1,6 @@
 <?php
 /**
  * Plugin Name: KOD Posts — Custom Gutenberg Block Plugin
- * Plugin URI: https://github.com/ahmadawais/create-guten-block/
  * Description: KOD post-loop — Gutenberg block plugin for displaying most viewed and watched posts
  * Author: Milan Bulatović
  * Version: 1.0.0
